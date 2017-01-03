@@ -1,0 +1,21 @@
+{
+  "name": "pingpong",
+  "description": "ping pong calculator project",
+  "main": "index.js",
+  "authors": [
+    "Jesse McKay and Bryant Wang"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
