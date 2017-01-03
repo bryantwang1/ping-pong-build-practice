@@ -9,6 +9,8 @@
   "author": "Jesse McKay and Bryant Wang",
   "license": "ISC",
   "devDependencies": {
+    "bower-files": "^3.14.1",
+    "browser-sync": "^2.18.5",
     "browserify": "^13.1.1",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
